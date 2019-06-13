@@ -1,0 +1,17 @@
+{
+  "name": "unittest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js --require intelli-espower-loader"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^6.1.4",
+    "power-assert": "^1.6.1",
+    "sinon": "^7.3.2"
+  }
+}
