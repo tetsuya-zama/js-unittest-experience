@@ -20,10 +20,10 @@ $ npm test
 
 ## 進め方
 サンプルとして、targert-sample.jsとtest/test-sample.jsを用意しています。
-その両ファイルを参考にしながら、target1.jsとtarget2.jsについて以下のように進めて下さい。
+その両ファイルを参考にしながら、target1.js,target2.js,target3.js,target4.jsについて以下のように進めて下さい。
 
 ### targetファイルのテスタビリティの強化
-target1.js, target2.jsに定義されている関数群はテスタビリティが低い（テストがしにくい）状態です。
+target1.js,target2.js,target3.js,target4.jsに定義されている関数群はテスタビリティが低い（テストがしにくい）状態です。
 
 これらの関数をリファクタリングしてテスタビリティを強化してください。
 
