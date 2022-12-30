@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "intelli-espower-loader": "^1.0.1",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "power-assert": "^1.6.1",
     "sinon": "^7.3.2"
   }
